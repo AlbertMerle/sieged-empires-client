@@ -1513,6 +1513,26 @@
       }
     },
     {
+      "path": "mods/niftycarts-26.2.0.jar",
+      "source": "mods/niftycarts-26.2.0.jar",
+      "hashes": {
+        "sha1": "f3340248460644214905fa85bebd07f2f1db766c",
+        "sha512": "13e5f322c34ebf0e7b261cd270cb1c5e47dabd96537363aaafe5519829813b19b7a69d139b3b540e5cb4fa45a7e6454811d4ccfa51717e2a10c5943c86770d9c"
+      },
+      "fileSize": 655957,
+      "reason": "third_party_mit_bundled",
+      "github": "https://github.com/jmb05/nifty-carts",
+      "license": "MIT",
+      "modrinth": {
+        "slug": "niftycarts",
+        "homepage": "https://modrinth.com/mod/niftycarts"
+      },
+      "localSource": {
+        "path": "add/",
+        "notes": "MIT — AstikorCarts Fabric port; bundled for 26.2 (not on Modrinth CDN for this MC version yet)."
+      }
+    },
+    {
       "path": "mods/shiftyocean-1.0.0.jar",
       "source": "mods/shiftyocean-1.0.0.jar",
       "hashes": {
