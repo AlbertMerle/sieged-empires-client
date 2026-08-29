@@ -1,0 +1,11 @@
+#BSL MEDIUM profile — shadows+AO+filter; WATER_FOG Full
+#Sieged Empires default on load
+WATER_FOG=1
+AO=true
+LIGHT_SHAFT=false
+SHADOW=true
+SHADOW_COLOR=false
+SHADOW_FILTER=true
+TAA=false
+shadowDistance=192.0
+shadowMapResolution=1536

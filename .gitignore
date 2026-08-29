@@ -1,0 +1,5 @@
+.DS_Store
+Thumbs.db
+config/spark/tmp/
+config/spark/tmp-client/
+config/voicechat/username-cache.json

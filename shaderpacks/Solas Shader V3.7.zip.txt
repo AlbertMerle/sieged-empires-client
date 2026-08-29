@@ -1,0 +1,20 @@
+#Solas ULTRA profile — all features enabled, 4096 shadow map, 512 shadow distance
+#Sat Aug 08 18:36:57 EDT 2026
+LPV_FOG=true
+REFRACTION=true
+BLOOM=true
+VOLUMETRIC_CLOUDS=true
+VL=true
+AURORA=true
+GENERATED_NORMALS=true
+GENERATED_SPECULAR=true
+NETHER_SMOKE=true
+END_DISK=true
+SHADOW_COLOR=true
+LPV_CLOUDY_FOG=true
+SHADOW_ENTITIES=true
+WATER_NORMALS=3
+shadowMapResolution=4096
+shadowDistance=512.0
+VOXEL_VOLUME_SIZE=256
+VL_SAMPLES=12
