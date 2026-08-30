@@ -1516,10 +1516,10 @@
       "path": "mods/niftycarts-26.2.0.jar",
       "source": "mods/niftycarts-26.2.0.jar",
       "hashes": {
-        "sha1": "f3340248460644214905fa85bebd07f2f1db766c",
-        "sha512": "13e5f322c34ebf0e7b261cd270cb1c5e47dabd96537363aaafe5519829813b19b7a69d139b3b540e5cb4fa45a7e6454811d4ccfa51717e2a10c5943c86770d9c"
+        "sha1": "d97649405dcb9c025b6153786ec39b3497581d38",
+        "sha512": "4eb8ad93444a15974fa9885cec6ef6ca6bc869e7b98d3f34d8e5bf6db3647145a158f5e7fff5026583a0fb78290e823cd053688798b6f0db1621ac53eb332714"
       },
-      "fileSize": 655957,
+      "fileSize": 656321,
       "reason": "third_party_mit_bundled",
       "github": "https://github.com/jmb05/nifty-carts",
       "license": "MIT",
