@@ -1606,10 +1606,10 @@
       "path": "mods/weaponsmodaddon-1.0.0.jar",
       "source": "mods/weaponsmodaddon-1.0.0.jar",
       "hashes": {
-        "sha1": "303b318b3df2b38cb8747f13db43f886a8193a43",
-        "sha512": "8f8296607ac8efe3eb5d961116ae41477f3c9976230ff167cfe7136e422b19c23ad98eec549ed53d0b258a99ad5c099813818fb86287b16a9a92d29d0b58471a"
+        "sha1": "dfb5ea4011340f6f3706580c91302945fd10ccd0",
+        "sha512": "91d81e478a11aa33e5dee46ee37d7d06fe5d0198270b812f9bde976cb2844fdfd9e5ac80a37733d467577f3efc61c188334b0744ff7db44c2c666bbcfbb6bde4"
       },
-      "fileSize": 355885,
+      "fileSize": 358377,
       "reason": "custom_sieged_empires",
       "localSource": {
         "path": "WeaponsMod/Addon/",
