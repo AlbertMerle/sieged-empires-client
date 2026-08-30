@@ -1592,10 +1592,10 @@
       "path": "mods/voxelmapsync-1.0.0.jar",
       "source": "mods/voxelmapsync-1.0.0.jar",
       "hashes": {
-        "sha1": "1fe95595a7cb3e1ace38ac29cf7d378f2452b1b5",
-        "sha512": "7ce54541703deb3a825ac886da4f471f042ac2b18743837c051f07d6eff8d1d026c3c14a183b7e53affae425c5ccc076801946376743477f52d6955e2df3bd3b"
+        "sha1": "e0c6941d4d24d8581cece87bfaca2694907a0f17",
+        "sha512": "354e7223b15722a448b82e6146c4aa6de986071ad1352ae1d883939a2f929e71a0d0f790c16ad98d9e06baf4e6c3231c867ca66acb1172ee6dfe60c3969d6969"
       },
-      "fileSize": 169403,
+      "fileSize": 174570,
       "reason": "custom_sieged_empires",
       "localSource": {
         "path": "voxelmapsync/",
