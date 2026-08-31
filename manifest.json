@@ -81,6 +81,31 @@
       "redistribution": "allowed_with_license_compliance"
     },
     {
+      "path": "mods/AmbientSounds_FABRIC_v6.3.6_mc26.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/fM515JnW/versions/jGlT0HRa/AmbientSounds_FABRIC_v6.3.6_mc26.2.jar"
+      ],
+      "hashes": {
+        "sha1": "b4fa62c189907192933fae4853eeebeb6d57d836",
+        "sha512": "02163deeee68e4d7b884dd99efa90220ab3197616edbd305a6fabb0bf9b0ac61c74af97d1fa534155a71034736df2daa3cd384d207c964c7b78205a16b168e06"
+      },
+      "fileSize": 84821411,
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "modrinth": {
+        "project_id": "fM515JnW",
+        "version_id": "jGlT0HRa",
+        "version_number": "6.3.6",
+        "slug": "ambientsounds",
+        "filename": "AmbientSounds_FABRIC_v6.3.6_mc26.2.jar"
+      },
+      "github": "https://github.com/CreativeMD/AmbientSounds",
+      "license": "LGPL-3.0-only (https://modrinth.com/mod/ambientsounds)",
+      "redistribution": "allowed_with_license_compliance"
+    },
+    {
       "path": "mods/BadOptimizations-2.4.1-26.2-fabric.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/g96Z4WVZ/versions/JmPs4Wie/BadOptimizations-2.4.1-26.2-fabric.jar"
@@ -242,6 +267,31 @@
         "slug": "collapsing-caves",
         "filename": "CollapsingCaves-26.2-fabric-1.7.jar"
       }
+    },
+    {
+      "path": "mods/CreativeCore_FABRIC_v2.14.16_mc26.2.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/OsZiaDHq/versions/SI6rsPDj/CreativeCore_FABRIC_v2.14.16_mc26.2.jar"
+      ],
+      "hashes": {
+        "sha1": "c9189bb8b0f760d3b84e73b77cf81ca809399c3d",
+        "sha512": "627a0821c5d833a5bc2fe8dee7c00ef67a6e6c69ddddeed5049c70883597956181778c30c143e1fcd201939c47b806de6a5aeee65b024342c0ff1a094db59a33"
+      },
+      "fileSize": 1396350,
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "modrinth": {
+        "project_id": "OsZiaDHq",
+        "version_id": "SI6rsPDj",
+        "version_number": "2.14.16",
+        "slug": "creativecore",
+        "filename": "CreativeCore_FABRIC_v2.14.16_mc26.2.jar"
+      },
+      "github": "https://github.com/CreativeMD/CreativeCore",
+      "license": "LGPL-3.0-only (https://modrinth.com/mod/creativecore)",
+      "redistribution": "allowed_with_license_compliance"
     },
     {
       "path": "mods/connectivity-fabric-26.1-7.6.jar",
