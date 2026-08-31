@@ -103,6 +103,31 @@
       }
     },
     {
+      "path": "mods/betterdays-26.2-fabric-4.1.1.7-FABRIC.jar",
+      "downloads": [
+        "https://cdn.modrinth.com/data/tPLE214j/versions/fOWyja8s/betterdays-26.2-fabric-4.1.1.7-FABRIC.jar"
+      ],
+      "hashes": {
+        "sha1": "fdf740bc0ef922da8d62b97b6e3f7de92d73e08a",
+        "sha512": "d92d97662952715925ea2eb3f9876307570ad7d423f122661ac9cf173e33eb2b98ab0f548743417cd90cca57a844058e8fc0f42672a135a27aa94fd7814e358e"
+      },
+      "fileSize": 971527,
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "modrinth": {
+        "project_id": "tPLE214j",
+        "version_id": "fOWyja8s",
+        "version_number": "26.2-4.1.1.7-FABRIC",
+        "slug": "betterdays",
+        "filename": "betterdays-26.2-fabric-4.1.1.7-FABRIC.jar"
+      },
+      "github": "https://github.com/wendall911/BetterDays",
+      "license": "LGPL-3.0-or-later (https://modrinth.com/mod/betterdays)",
+      "redistribution": "allowed_with_license_compliance"
+    },
+    {
       "path": "mods/biomereplacer-3.1-newt-fabric.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/DAXbR0Wj/versions/RFvpvuiP/biomereplacer-3.1-newt-fabric.jar"
@@ -1529,7 +1554,7 @@
       },
       "localSource": {
         "path": "add/",
-        "notes": "MIT \u2014 AstikorCarts Fabric port; bundled for 26.2 (not on Modrinth CDN for this MC version yet)."
+        "notes": "MIT — AstikorCarts Fabric port; bundled for 26.2 (not on Modrinth CDN for this MC version yet)."
       }
     },
     {
