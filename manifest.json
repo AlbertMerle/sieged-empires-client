@@ -1582,7 +1582,7 @@
       },
       "localSource": {
         "path": "add/",
-        "notes": "MIT — AstikorCarts Fabric port; bundled for 26.2 (not on Modrinth CDN for this MC version yet)."
+        "notes": "MIT \u2014 AstikorCarts Fabric port; bundled for 26.2 (not on Modrinth CDN for this MC version yet)."
       }
     },
     {
@@ -1645,10 +1645,10 @@
       "path": "mods/voxelmapsync-1.0.0.jar",
       "source": "mods/voxelmapsync-1.0.0.jar",
       "hashes": {
-        "sha1": "1d4f2bdf7f8e169fbf655ade5f3a61f65bfde9d2",
-        "sha512": "ca1d31ddc7d6f5099f94aaf976874bc20d6828fe22f9f015b817b0c80e54355673bbcbe3fa17d860a9a95133dcb327d14d5213044f382543e3520c63a4a30c81"
+        "sha1": "eae510c85648c51a3387733d0539606657940215",
+        "sha512": "cd049ed0354cea048160a9a75f1874686297cff0d8ddd19c51820cfe92d321bc9734789bb4f041fd82dbf761a54779a79b99b5e9b31edd03dbcb3a32f705d5e9"
       },
-      "fileSize": 180940,
+      "fileSize": 183392,
       "reason": "custom_sieged_empires",
       "localSource": {
         "path": "voxelmapsync/",
