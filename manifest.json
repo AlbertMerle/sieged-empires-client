@@ -680,28 +680,6 @@
       "redistribution": "not_allowed_bundle_cdn_download_ok"
     },
     {
-      "path": "mods/ImmediatelyFast-Fabric-1.16.2+26.2.jar",
-      "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/uJHxuQxy/ImmediatelyFast-Fabric-1.16.2%2B26.2.jar"
-      ],
-      "hashes": {
-        "sha1": "2d1cd27b0b570f908b665c02a35b49381b4c5ec1",
-        "sha512": "5f7c9d7993bfe3654b4f384c23afd83c1adcc359b1fa669b20f29ffa41e4e3135a161c1fdf97c66c5fc513ec5fe63e757a46b6e183b7b93148a28412496c5a0b"
-      },
-      "fileSize": 91422,
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "modrinth": {
-        "project_id": "5ZwdcRci",
-        "version_id": "uJHxuQxy",
-        "version_number": "1.16.2+26.2-fabric",
-        "slug": "immediatelyfast",
-        "filename": "ImmediatelyFast-Fabric-1.16.2+26.2.jar"
-      }
-    },
-    {
       "path": "mods/ingeniumapi-1.0.2-FABRIC-MC-26.X.jar",
       "downloads": [
         "https://cdn.modrinth.com/data/bhnA6sV8/versions/VYmEo1o8/ingeniumapi-1.0.2-FABRIC-MC-26.X.jar"
@@ -1673,6 +1651,8 @@
   ],
   "remove": [
     "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.35.jar",
-    "config/c2me.toml"
+    "config/c2me.toml",
+    "mods/ImmediatelyFast-Fabric-1.16.2+26.2.jar",
+    "config/immediatelyfast.json"
   ]
 }
