@@ -5,7 +5,7 @@ chunkSectionFadeInTime:0.75
 cutoutLeaves:true
 enableVsync:true
 entityDistanceScaling:1.0
-entityShadows:true
+entityShadows:false
 forceUnicodeFont:false
 japaneseGlyphVariants:false
 fov:0.45
@@ -31,8 +31,8 @@ particles:0
 reducedDebugInfo:false
 renderClouds:"true"
 cloudRange:64
-renderDistance:14
-simulationDistance:17
+renderDistance:12
+simulationDistance:12
 screenEffectScale:1.0
 soundDevice:""
 vignette:true
