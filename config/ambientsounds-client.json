@@ -1,6 +1,6 @@
 {
   "engines": 0,
-  "volume": 0.33,
+  "volume": 0.18,
   "useSoundMasterSource": false,
   "scanStepAmount": 100,
   "playSoundWithOffset": true
