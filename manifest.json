@@ -1541,10 +1541,10 @@
       "path": "mods/distantnoise-1.0.0.jar",
       "source": "mods/distantnoise-1.0.0.jar",
       "hashes": {
-        "sha1": "0e3e19b9ce9c8021cafc0296c3948b9f0bd8a331",
-        "sha512": "14d00608e56a03160ac6e7b94bd62e08722c4c77ea5e939fc5b9e1c4237e577e4df49e0756d1c19c0017722dbc7e339cecd5fb31de51aa2bb8b44b74911ddb6f"
+        "sha1": "10af55b76390d2c808f0fc7ed148d853bbd64a02",
+        "sha512": "e2d6b27167f1b7d074c5adef3f886958afdb3afebd866801daaad7ac216144bc14e9747791bb3807196a5adc83750a8c7f9c1d8248846edf3af4228c6d4a27fb"
       },
-      "fileSize": 1843231,
+      "fileSize": 1847521,
       "reason": "custom_sieged_empires",
       "localSource": {
         "path": "distantnoise/",
