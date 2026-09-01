@@ -1673,10 +1673,10 @@
       "path": "mods/wild-behavior-1.2.3-fabric.jar",
       "source": "mods/wild-behavior-1.2.3-fabric.jar",
       "hashes": {
-        "sha1": "f227ca99a62f85c2fe61e266982eb02a66b66a53",
-        "sha512": "20b9e9581aebcd9ef3e1a7ddb59f3285989f7cb0e8ef78382980fa445d96d711134e3904a739bf670a6c1297dcd13f980112956d92d99151053c6b36ff86b703"
+        "sha1": "7a70a97dea1c5a9e53b6fa00731eb6edc95e9764",
+        "sha512": "bfdf405679c29e00c02ac964c30bee6553c819179fb1c990909ddddca2fa9e781b533d6781947c924b88be3f900d56badc1f02d811b5a46442fe7a6000fb69c0"
       },
-      "fileSize": 242449,
+      "fileSize": 252651,
       "reason": "custom_not_on_modrinth",
       "github": {
         "url": null,
