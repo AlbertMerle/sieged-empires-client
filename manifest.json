@@ -1527,14 +1527,14 @@
       "path": "mods/croplite-1.0.0.jar",
       "source": "mods/croplite-1.0.0.jar",
       "hashes": {
-        "sha1": "b40905e63080c41f24f7c328066c5a833fc3a52b",
-        "sha512": "8847784f68b9fa902b39ef1f35753db12454e12f77bf8b5e3a20e43983b7f731264440b2fea2ed1cfa03c3a5d5004a3c1ab695b536119a03a4fe6f8fe0e4d8cb"
+        "sha1": "7eb3902797af8b8adf8e252415dcc44a132638c6",
+        "sha512": "28987961126e59bac177d5ec1fe83869c730cfc4e563704adb2c7e52d6c3ed9647f43e8e703e316a2dfb7db5697639880c94ac850ce7b712d04b5847f8402fa4"
       },
-      "fileSize": 263625,
+      "fileSize": 264256,
       "reason": "custom_sieged_empires",
       "localSource": {
         "path": "CropLite/",
-        "notes": "SE custom jar; source in monorepo CropLite/ (hay→paper recipe added 2026-09-02)."
+        "notes": "SE custom jar; source in monorepo CropLite/ (hay→paper recipe; mature wheat drops 0–2 hay)."
       }
     },
     {
