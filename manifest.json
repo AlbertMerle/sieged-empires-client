@@ -1670,18 +1670,18 @@
       }
     },
     {
-      "path": "mods/wild-behavior-1.2.3-fabric.jar",
-      "source": "mods/wild-behavior-1.2.3-fabric.jar",
+      "path": "mods/wild-behavior-b1.2.3-fabric.jar",
+      "source": "mods/wild-behavior-b1.2.3-fabric.jar",
       "hashes": {
-        "sha1": "7a70a97dea1c5a9e53b6fa00731eb6edc95e9764",
-        "sha512": "bfdf405679c29e00c02ac964c30bee6553c819179fb1c990909ddddca2fa9e781b533d6781947c924b88be3f900d56badc1f02d811b5a46442fe7a6000fb69c0"
+        "sha1": "90d950ef1c73b5a6ad82a667a7b7934b5d29f631",
+        "sha512": "569cc448dc6963e86170f00090f91fa9c78341f9a32612effea8b04dde77f8003f720e042540040c83ad11462df828e596da669cc8324556d3ea6ded3b8b1a0b"
       },
-      "fileSize": 252651,
+      "fileSize": 257191,
       "reason": "custom_not_on_modrinth",
       "github": {
         "url": null,
         "licenseOnRepo": "CC0-1.0 (in jar)",
-        "notes": "No GitHub/Modrinth project found. Package com.wildbehavior; no source in this monorepo."
+        "notes": "No GitHub/Modrinth project found. Package com.wildbehavior; no source in this monorepo. Replaces wild-behavior-1.2.3-fabric.jar (b build)."
       }
     },
     {
