@@ -1,5 +1,6 @@
-#BSL MEDIUM profile — shadows+AO+filter; WATER_FOG Full
+#BSL MEDIUM profile — shadows+AO+filter; WATER_FOG Full; Advanced Materials on (LabPBR gold)
 #Sieged Empires default on load
+ADVANCED_MATERIALS=true
 WATER_FOG=1
 AO=true
 LIGHT_SHAFT=false
