@@ -1700,6 +1700,8 @@
     }
   ],
   "remove": [
+    "mods/wild-behavior-1.2.3-fabric.jar",
+    "mods/wild-behavior-1.2.2.jar",
     "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.35.jar",
     "config/c2me.toml",
     "mods/ImmediatelyFast-Fabric-1.16.2+26.2.jar",
