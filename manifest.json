@@ -1541,10 +1541,10 @@
       "path": "mods/distantnoise-1.0.0.jar",
       "source": "mods/distantnoise-1.0.0.jar",
       "hashes": {
-        "sha1": "a00a86c29dd24bd974fe736ad3effd01a76f8efc",
-        "sha512": "2909ca519fb588a824e854efecbb922cabb2821b03a2eed392f22af0ddffd5fba5ff41c7fbc2b3280367321109aed2745761c47d5dcfc1149812a5aca1b2c05d"
+        "sha1": "ab8e0ee46c7055280518deba485baac0e6f5f381",
+        "sha512": "e0f08e071693d7c538e2f9b2b45542a8bf7e494514366501b744608e1e355992c658f5f0fdf28ad3ae160e8697d36e1532e6d1955b42a80eed8a4125252c7399"
       },
-      "fileSize": 1897796,
+      "fileSize": 1891491,
       "reason": "custom_sieged_empires",
       "localSource": {
         "path": "distantnoise/",
@@ -1555,10 +1555,10 @@
       "path": "mods/moremeatmilk-1.0.0.jar",
       "source": "mods/moremeatmilk-1.0.0.jar",
       "hashes": {
-        "sha1": "ef8b87e7118b2e3ac8d93b215a681023b4560dfa",
-        "sha512": "c3153c03fbb8babc8efd0720518d9aaff91f756ef02936b081f3ecce4828d184915fe15f99dfc0042aa9c2fe1e7c6c136630bf43765faec51c2806bb7a9713c5"
+        "sha1": "6aa1bcc325cb7dab983df0cb09926b975afa5f35",
+        "sha512": "1b87290e0b0b9e4525cf912507f55bec8ae1222f06d450a164adba78a350c9a823f3ddf4246cd1e05f1394e3706bae2a642ce13e2b9685da950b4eb428d4325c"
       },
-      "fileSize": 62880,
+      "fileSize": 73915,
       "reason": "custom_sieged_empires",
       "localSource": {
         "path": "moremeat/",
@@ -1617,10 +1617,10 @@
       "path": "mods/siegedempires-1.0.0.jar",
       "source": "mods/siegedempires-1.0.0.jar",
       "hashes": {
-        "sha1": "4bcf7ff6502bbfdcf3181bedb6a8731bb9dfc797",
-        "sha512": "a0324bb4faa51b8d51c13c3f6ca9a4221996ac4011e81e520537363abe9dabd9b1083d87e06765756b4363f50648b92d5acdfb2cfaba91f0dca40ac84c6ef4dd"
+        "sha1": "f219dbc2ab46ff91a88f032895062aa697a97915",
+        "sha512": "2271723a1b23b6b96ec630aee3348cebe86f84964e0c9ef3c219de1d01b7af440971a466e453fc80b69de98cfd59462115060fe14fd5401db5a009e8465f77cc"
       },
-      "fileSize": 19873968,
+      "fileSize": 20031635,
       "reason": "custom_sieged_empires",
       "localSource": {
         "path": "Sieged Empires/",
@@ -1645,10 +1645,10 @@
       "path": "mods/voxelmapsync-1.0.0.jar",
       "source": "mods/voxelmapsync-1.0.0.jar",
       "hashes": {
-        "sha1": "f38ad51c9dcf59317421b60a38156357b10c72b1",
-        "sha512": "65f21b7f5b2b9da0aba984963e6b892d98db7494e434b5de9e6f3dace26b3cbbeb4f42c170d485fec91aa6cf7d38354a35c714f01b8ab0a7483e33a815ce776a"
+        "sha1": "ec3e73edba8533a3ff307f7b3750fd59efd38ed0",
+        "sha512": "105d30335dcc23eaa6d9bc70e48b1dcb9850b65e623ab6e28c0adad0361faaf66780cc11bce6816cfe7ecd90f8d7c3a0af97b0b4753b16d6ccaf2fbc8c7f0d75"
       },
-      "fileSize": 183422,
+      "fileSize": 193307,
       "reason": "custom_sieged_empires",
       "localSource": {
         "path": "voxelmapsync/",
