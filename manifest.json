@@ -1617,10 +1617,10 @@
       "path": "mods/siegedempires-1.0.0.jar",
       "source": "mods/siegedempires-1.0.0.jar",
       "hashes": {
-        "sha1": "95719d0ac65eaf9e0ed96096289af466e18bce05",
-        "sha512": "db0e2c7eebc7676338126501124fabc2953d56eec733a54f616b81d56b9046474c8ab9db9e1ae1dd3c8fdf54b547e548b6aab0a9538a370ae2e3a4f7a17746df"
+        "sha1": "b00550c9f00c8d043a5c009d9949837affa09d14",
+        "sha512": "802c86d2ea263dd12286be6cf16c2000af619f3c565aab2c98a9c1da3211d5e45932510922f205245561c33f459684035296158ad315e75b3d9d51e4702789bc"
       },
-      "fileSize": 20103156,
+      "fileSize": 20102421,
       "reason": "custom_sieged_empires",
       "localSource": {
         "path": "Sieged Empires/",
