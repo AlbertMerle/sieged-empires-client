@@ -1534,7 +1534,7 @@
       "reason": "custom_sieged_empires",
       "localSource": {
         "path": "CropLite/",
-        "notes": "SE custom jar; source in monorepo CropLite/ (hay→paper recipe; mature wheat drops 0–2 hay)."
+        "notes": "SE custom jar; source in monorepo CropLite/ (hay\u2192paper recipe; mature wheat drops 0\u20132 hay)."
       }
     },
     {
@@ -1617,10 +1617,10 @@
       "path": "mods/siegedempires-1.0.0.jar",
       "source": "mods/siegedempires-1.0.0.jar",
       "hashes": {
-        "sha1": "b00550c9f00c8d043a5c009d9949837affa09d14",
-        "sha512": "802c86d2ea263dd12286be6cf16c2000af619f3c565aab2c98a9c1da3211d5e45932510922f205245561c33f459684035296158ad315e75b3d9d51e4702789bc"
+        "sha1": "cbabfaccaed278a05077382c03a351d3d7aac982",
+        "sha512": "993022fc8aa557b5492e5998f118cd1e73d2b38dcfd39f1a31bba33e4c6ac740251d60483ca0f1c882efe44f6bcd38677ac1d7d1d024eb4b0c665b1035e28fcd"
       },
-      "fileSize": 20102421,
+      "fileSize": 20120801,
       "reason": "custom_sieged_empires",
       "localSource": {
         "path": "Sieged Empires/",
@@ -1645,10 +1645,10 @@
       "path": "mods/voxelmapsync-1.0.0.jar",
       "source": "mods/voxelmapsync-1.0.0.jar",
       "hashes": {
-        "sha1": "879dd8a7848a6247d0f6200f1d25f1355457d30a",
-        "sha512": "4bec56c6c0bea36701ddafc71c200083c5165e65b99cdacfa5088a03cf4214b33d8d9268c659476ec96f38c9274afac75918e4f2c5d331c623db01139c49438f"
+        "sha1": "eef1de5788ea1def215d728cd95ceb9be541fe3d",
+        "sha512": "f28a0ffe50b2284e80e09401bcd9250ebf3f0277eeee7592bb2aa160e0c26e4cb4cfacf4b29ed83a7fb0a51c896420e60c3b31b3aea3e5844bd7a77cc1458231"
       },
-      "fileSize": 194602,
+      "fileSize": 195892,
       "reason": "custom_sieged_empires",
       "localSource": {
         "path": "voxelmapsync/",
